@@ -7,3 +7,6 @@
 [submodule "WEB.PORTAL.AQUAMONITOR"]
 	path = WEB.PORTAL.AQUAMONITOR
 	url = https://github.com/yJbandeira/WEB.PORTAL.AQUAMONITOR.git
+[submodule "sensorVazaoEfeitoHall"]
+	path = sensorVazaoEfeitoHall
+	url = https://github.com/lffmribeiro/sensorVazaoEfeitoHall.git
