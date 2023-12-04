@@ -1,0 +1,6 @@
+[submodule "tcc-api-mqtt"]
+	path = tcc-api-mqtt
+	url = https://github.com/macgyvercsehdev/tcc-api-mqtt.git
+[submodule "tcc-mqtt-subscriber"]
+	path = tcc-mqtt-subscriber
+	url = https://github.com/macgyvercsehdev/tcc-mqtt-subscriber
