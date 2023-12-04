@@ -4,3 +4,6 @@
 [submodule "tcc-mqtt-subscriber"]
 	path = tcc-mqtt-subscriber
 	url = https://github.com/macgyvercsehdev/tcc-mqtt-subscriber
+[submodule "WEB.PORTAL.AQUAMONITOR"]
+	path = WEB.PORTAL.AQUAMONITOR
+	url = https://github.com/yJbandeira/WEB.PORTAL.AQUAMONITOR.git
